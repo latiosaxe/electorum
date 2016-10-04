@@ -21,6 +21,7 @@
 
 
     <link rel="stylesheet" href="assets/control/css/custom.min.css"/>
+    <link rel="stylesheet" href="assets/control/css/electorum.css"/>
 </head>
 <body class="nav-md">
 <div class="container body">
@@ -28,7 +29,10 @@
         <div class="col-md-3 left_col">
             <div class="left_col scroll-view">
                 <div class="navbar nav_title" style="border: 0;">
-                    <a href="index.html" class="site_title"><i class="fa fa-paw"></i> <span>Gentellela Alela!</span></a>
+                    <a href="index.html" class="site_title">
+                        {{--<i class="fa fa-paw"></i> <span>Gentellela Alela!</span>--}}
+                        <img src="assets/control/images/logo.png" alt="Electorum"/>
+                    </a>
                 </div>
 
                 <div class="clearfix"></div>

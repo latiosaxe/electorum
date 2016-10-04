@@ -108,7 +108,7 @@
                                     2015 - 2016
                                 </td>
                                 <td>
-                                    Completada
+                                    <Completada></Completada>
                                 </td>
                                 <td>
                                     <a href="#" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Editar</a>
