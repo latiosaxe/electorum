@@ -28,7 +28,11 @@
                         {{--<div class="clearfix"></div>--}}
                     {{--</div>--}}
                     <div class="x_content">
-                        <p>Simple table with project listing with progress and editing options</p>
+                        <p class="text-right">
+                            <a href="#" class="btn btn-primary">
+                                <i class="fa fa-plus"></i> Agregar Jornada Electoral
+                            </a>
+                        </p>
                         <!-- start project list -->
                         <table id="datatable" class="table table-striped table-bordered bulk_action">
                             <thead>
@@ -38,7 +42,7 @@
                                 <th>Tipo</th>
                                 <th>Periodo</th>
                                 <th>Estatus</th>
-                                <th style="width: 100px">Editar</th>
+                                <th style="width: 50px">Revisar</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -54,10 +58,10 @@
                                     2015 - 2016
                                 </td>
                                 <td>
-                                    En progreso
+                                    <p class="color-orange">En progreso</p>
                                 </td>
                                 <td>
-                                    <a href="#" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Editar</a>
+                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             <tr>
@@ -72,10 +76,10 @@
                                     2015 - 2016
                                 </td>
                                 <td>
-                                    Completada
+                                    <p class="color-blue">Completada</p>
                                 </td>
                                 <td>
-                                    <a href="#" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Editar</a>
+                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             <tr>
@@ -90,10 +94,10 @@
                                     2015 - 2016
                                 </td>
                                 <td>
-                                    Completada
+                                    <p class="color-blue">Completada</p>
                                 </td>
                                 <td>
-                                    <a href="#" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Editar</a>
+                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             <tr>
@@ -108,10 +112,10 @@
                                     2015 - 2016
                                 </td>
                                 <td>
-                                    <Completada></Completada>
+                                    <p class="color-blue">Completada</p>
                                 </td>
                                 <td>
-                                    <a href="#" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Editar</a>
+                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             </tbody>

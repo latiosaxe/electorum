@@ -1,0 +1,147 @@
+@primary-color: #b0b536;
+@secondary-color: #db7070;
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+header{
+    background: #EDEDED;
+    border-bottom: 1px solid #D9DEE4;
+    padding: 20px 0;
+}
+
+
+.color-red{
+    color: @secondary-color;
+}
+
+.text-right{
+    text-align: right;
+}
+.btn-inline{
+    padding: 10px 20px;
+    display: inline-block;
+    color: @primary-color;
+    &:hover{
+        cursor: pointer;
+        color: #FFF;
+        background: @primary-color;
+    }
+}
+
+.horizontal-scroll{
+    height: auto;
+    width: 100%;
+    overflow: auto;
+    position: relative;
+}
+
+#canvasBoleta{
+    width: 1900px;
+    height: 937px;
+    background: #eaeaea;
+}
+
+.dragme{
+    cursor: move;
+    position: relative;
+}
+
+
+
+.selectZone{
+    top: 0;
+    left: 0;
+    display: none;
+    max-width: 320px;
+    position: absolute;
+    .problems{
+        margin: 0;
+        list-style: none;
+        padding: 5px 0;
+        background: #FFF;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+        li{
+            a{
+                padding: 5px 15px;
+                display: block;
+                text-decoration: none;
+            }
+            &:hover{
+                a{
+                    background: rgba(0,0,0,0.05);
+                }
+            }
+        }
+    }
+}
+
+
+.data{
+    .relative{
+        p.dragme{
+            top: 0;
+            left: 0;
+            margin: 0;
+            color: #FFF;
+            font-size: 15px;
+            padding: 5px 10px;
+            position: absolute;
+            letter-spacing: 1px;
+            display: inline-block;
+            background: rgba(0,0,0,0.5);
+            .options{
+                display: none;
+                //                display: inline-block;
+                a{
+                    color: #FFF;
+                    margin: 0 10px;
+                    display: inline-block;
+                    &.itsFine{
+                        display: none;
+                    }
+                }
+            }
+            &.warning{
+                background: rgba(255, 7, 11, 0.73);
+                .options{
+                    display: inline-block;
+                    a{
+                        &.itsFine{
+                            display: inline-block;
+                        }
+                    }
+                }
+            }
+            &.succes{
+                background: rgba(0, 193, 54, 0.73);
+            }
+            &:hover, &.hover{
+                .options{
+                    display: inline-block;
+                }
+            }
+        }
+    }
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    .row{
+        overflow: hidden;
+        .col-md-4{
+            width: 33.33%;
+        }
+        .col-md-6{
+            width: 50%;
+        }
+    }
+}
+
+footer{
+    margin: 0;
+}

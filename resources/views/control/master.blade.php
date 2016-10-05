@@ -29,7 +29,7 @@
         <div class="col-md-3 left_col">
             <div class="left_col scroll-view">
                 <div class="navbar nav_title" style="border: 0;">
-                    <a href="index.html" class="site_title">
+                    <a href="/" class="site_title">
                         {{--<i class="fa fa-paw"></i> <span>Gentellela Alela!</span>--}}
                         <img src="assets/control/images/logo.png" alt="Electorum"/>
                     </a>
@@ -40,41 +40,48 @@
                 <!-- menu profile quick info -->
                 <div class="profile">
                     <div class="profile_pic">
-                        <img src="images/img.jpg" alt="..." class="img-circle profile_img">
+                        <img src="assets/control/images/profile.jpg" alt="Olegario" class="img-circle profile_img">
                     </div>
                     <div class="profile_info">
-                        <span>Welcome,</span>
+                        <span>Abogado,</span>
                         <h2>Olegario</h2>
                     </div>
                 </div>
                 <!-- /menu profile quick info -->
 
-                <br />
+                {{--<br />--}}
+                {{--<div class="clear"></div>--}}
+                {{--<hr/>--}}
 
                 <!-- sidebar menu -->
                 <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
                     <div class="menu_section">
                         <h3>General</h3>
-                        <ul class="nav side-menu">
-                            <li><a><i class="fa fa-home"></i> Home <span class="fa fa-chevron-down"></span></a>
-                                <ul class="nav child_menu">
-                                    <li><a href="index.html">Dashboard</a></li>
-                                    <li><a href="index2.html">Dashboard2</a></li>
-                                    <li><a href="index3.html">Dashboard3</a></li>
-                                </ul>
+                        <ul>
+                            <li>
+                                <p class="color-white">Navegación pendiente</p>
                             </li>
-
                         </ul>
+
+                        {{--<ul class="nav side-menu">--}}
+                            {{--<li><a><i class="fa fa-home"></i> Home <span class="fa fa-chevron-down"></span></a>--}}
+                                {{--<ul class="nav child_menu">--}}
+                                    {{--<li><a href="index.html">Dashboard</a></li>--}}
+                                    {{--<li><a href="index2.html">Dashboard2</a></li>--}}
+                                    {{--<li><a href="index3.html">Dashboard3</a></li>--}}
+                                {{--</ul>--}}
+                            {{--</li>--}}
+                        {{--</ul>--}}
                     </div>
                 </div>
                 <!-- /sidebar menu -->
 
                 <!-- /menu footer buttons -->
                 <div class="sidebar-footer hidden-small">
-                    <a data-toggle="tooltip" data-placement="top" title="Settings">
+                    <a data-toggle="tooltip" data-placement="top" title="Ajustes">
                         <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
                     </a>
-                    <a data-toggle="tooltip" data-placement="top" title="Logout">
+                    <a data-toggle="tooltip" data-placement="top" title="Salir">
                         <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
                     </a>
                 </div>
@@ -93,7 +100,7 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="">
                             <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                                <img src="images/img.jpg" alt="">Olegario
+                                <img src="assets/control/images/profile.jpg" alt="">Olegario
                                 <span class=" fa fa-angle-down"></span>
                             </a>
                             <ul class="dropdown-menu dropdown-usermenu pull-right">
