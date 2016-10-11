@@ -14,3 +14,14 @@ Route::get('/distrito', function () {
 Route::get('/boleta', function () {
     return view('control.elections.card');
 });
+
+Route::get('/demanda', function () {
+    return view('control.elections.demand');
+});
+
+
+
+
+Route::get('/usuario', function () {
+    return view('control.user.profile');
+});

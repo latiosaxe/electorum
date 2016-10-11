@@ -3,7 +3,7 @@
     <div class="">
         <div class="page-title">
             <div class="title_left">
-                <h3><small>Jornada</small> Oaxaca, Gobrenador, 2015-2016</h3>
+                <h3><small>Elección</small> Oaxaca, Gobrenador, 2015-2016</h3>
             </div>
             <div class="title_right">
                 <h4 class="text-right color-orange">En progreso</h4>
@@ -15,9 +15,9 @@
             <div class="col-md-12">
                 <div class="x_panel">
                     <div class="x_title text-center">
-                        <h2>Listado de distritos</h2>
+                        <h2>Distritos</h2>
                         <div class="absolute-right" style="top:6px;">
-                            <a href="/distrito" class="btn btn-electorum"><i class="fa fa-book"></i> Generar Demanda</a>
+                            <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-book"></i> Generar Demanda</a>
                         </div>
                         <div class="clearfix"></div>
                     </div>
@@ -26,12 +26,12 @@
                         <table id="datatable" class="table table-striped table-bordered bulk_action">
                             <thead>
                             <tr>
-                                <th style="width: 1%">#</th>
+                                <th style="width: 1%">Distrito</th>
                                 <th style="width: 20%">Nombre</th>
-                                <th>Votos totales</th>
-                                <th>Lista nominal</th>
-                                <th style="width: 100px">% Participación</th>
-                                <th style="width: 50px">Revisar</th>
+                                <th>Número de casillas</th>
+                                <th>Votación Total</th>
+                                <th>Voto Nulos</th>
+                                <th style="width: 40px">Detalle</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -50,7 +50,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -68,7 +68,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -86,7 +86,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -104,7 +104,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -122,7 +122,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -140,7 +140,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -158,7 +158,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -176,7 +176,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             </tbody>
@@ -207,6 +207,17 @@
     <script>
         $(document).ready(function(){
             $('#datatable').dataTable();
+
+            $("#generate").on('click', function(event){
+                event.preventDefault();
+
+                if (confirm("¿Estas seguro que deseas continuar?") == true) {
+                    window.location.replace("/demanda");
+                    return true;
+                } else {
+                    return false;
+                }
+            });
         });
     </script>
 @endsection

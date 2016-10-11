@@ -18,8 +18,8 @@
             <div class="col-md-12">
                 <div class="x_panel">
                     <div class="x_title text-center">
-                        <h2>Listado de casillas</h2>
-                        <p class="absolute-right"><strong>48%</strong> de boletas aprobadas</p>
+                        <h2>Relación de casillas</h2>
+                        <p class="absolute-right"><strong>48%</strong> de casillas revisadas</p>
                         <div class="clearfix"></div>
                     </div>
 
@@ -29,12 +29,12 @@
                         <table id="datatable" class="table table-striped table-bordered bulk_action">
                             <thead>
                             <tr>
-                                <th style="width: 1%">#</th>
+                                <th style="width: 1%">Registro</th>
                                 <th style="width: 20%">Numero de boleta</th>
-                                <th>Votos</th>
+                                <th>Votación total</th>
                                 <th>Partido Ganador</th>
-                                <th>Status</th>
-                                <th style="width: 50px">Revisar</th>
+                                <th>Estatus</th>
+                                <th style="width: 50px">Ver boleta</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -53,7 +53,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr class="table-sign">
@@ -71,7 +71,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -89,7 +89,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr class="table-sign">
@@ -107,7 +107,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -125,7 +125,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -143,7 +143,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr class="table-sign">
@@ -161,7 +161,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -179,7 +179,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -197,7 +197,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr class="table-sign">
@@ -215,7 +215,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -233,7 +233,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -251,7 +251,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr class="table-sign">
@@ -269,7 +269,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -287,7 +287,7 @@
                                     X%
                                 </td>
                                 <td>
-                                    <a href="/boleta" target="_blank" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             </tbody>

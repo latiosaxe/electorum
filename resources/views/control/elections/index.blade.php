@@ -85,7 +85,7 @@
                             <tr>
                                 <td>3</td>
                                 <td>
-                                    Oaxaca
+                                    Querétaro
                                 </td>
                                 <td>
                                     Gobernador
@@ -103,10 +103,10 @@
                             <tr>
                                 <td>4</td>
                                 <td>
-                                    Queretaro
+                                    Querétaro
                                 </td>
                                 <td>
-                                    Gobernador
+                                    Diputado
                                 </td>
                                 <td class="project_progress">
                                     2015 - 2016
