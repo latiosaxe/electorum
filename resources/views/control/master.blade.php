@@ -141,7 +141,7 @@
         <!-- footer content -->
         <footer>
             <div class="pull-right">
-                Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+                Esta es una plataforma de <a href="http://www.electorum.com.mx/">http://www.electorum.com.mx/</a>
             </div>
             <div class="clearfix"></div>
         </footer>
