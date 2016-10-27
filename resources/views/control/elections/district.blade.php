@@ -31,9 +31,10 @@
                             <tr>
                                 <th style="width: 1%">Registro</th>
                                 <th style="width: 20%">Numero de boleta</th>
+                                <th>Total causales</th>
                                 <th>Votación total</th>
-                                <th>Partido Ganador</th>
-                                <th>Estatus</th>
+                                <th>Partido Nº1</th>
+                                <th>Partido Nº2</th>
                                 <th style="width: 50px">Ver boleta</th>
                             </tr>
                             </thead>
@@ -46,17 +47,18 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr class="table-sign">
+                            <tr class="table-pause">
                                 <td>2</td>
                                 <td>
                                     XX2
@@ -64,6 +66,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>2</td>
                                 <td>
                                     XXX
                                 </td>
@@ -74,7 +77,7 @@
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="table-done">
                                 <td>3</td>
                                 <td>
                                     XX3-B
@@ -82,6 +85,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -100,6 +104,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -118,6 +123,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -136,6 +142,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -154,6 +161,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -172,6 +180,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -190,6 +199,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -208,6 +218,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -226,6 +237,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -244,6 +256,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -262,6 +275,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>
@@ -280,6 +294,7 @@
                                 <td>
                                     XXX
                                 </td>
+                                <td>-</td>
                                 <td>
                                     XXX
                                 </td>

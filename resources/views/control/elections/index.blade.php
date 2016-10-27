@@ -3,7 +3,7 @@
     <div class="">
         <div class="page-title">
             <div class="title_left">
-                <h3>Lista <small>Jornadas Electorales</small></h3>
+                <h3><small>Lista de </small>elecciones</h3>
             </div>
 
             <div class="title_right">
@@ -30,7 +30,7 @@
                     <div class="x_content">
                         <p class="text-right">
                             <a href="#" class="btn btn-primary">
-                                <i class="fa fa-plus"></i> Agregar Jornada Electoral
+                                <i class="fa fa-plus"></i> Agregar Elección
                             </a>
                         </p>
                         <!-- start project list -->
@@ -61,7 +61,7 @@
                                     <p class="color-orange">En progreso</p>
                                 </td>
                                 <td>
-                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             <tr>
@@ -79,7 +79,7 @@
                                     <p class="color-blue">Completada</p>
                                 </td>
                                 <td>
-                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             <tr>
@@ -97,7 +97,7 @@
                                     <p class="color-blue">Completada</p>
                                 </td>
                                 <td>
-                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             <tr>
@@ -115,7 +115,7 @@
                                     <p class="color-blue">Completada</p>
                                 </td>
                                 <td>
-                                    <a href="/jornada" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
                                 </td>
                             </tr>
                             </tbody>

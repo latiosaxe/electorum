@@ -19,7 +19,6 @@
     <link href="assets/control/libs/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
     <link href="assets/control/libs/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
 
-
     <link rel="stylesheet" href="assets/control/css/custom.min.css"/>
     <link rel="stylesheet" href="assets/control/css/electorum.css"/>
 </head>
@@ -58,7 +57,19 @@
                 <!-- sidebar menu -->
                 <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
                     <div class="menu_section">
-                        {{--<h3>General</h3>--}}
+                        <h3><a href="/">Admin</a></h3>
+                        <ul class="nav child_menu">
+                            <li>
+                                <a href="/nueva-eleccion">Nueva elección</a>
+                            </li>
+                            <li>
+                                <a href="/partidos">Partidos políticos</a>
+                            </li>
+                            <li>
+                                <a href="/usuarios">Usuarios</a>
+                            </li>
+                        </ul>
+                        <br>
                         <h3><a href="/">Inicio</a></h3>
                         <ul class="nav child_menu">
                             <li>

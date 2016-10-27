@@ -3,7 +3,7 @@
 Route::get('/', function () {
     return view('control.elections.index');
 });
-Route::get('/jornada', function () {
+Route::get('/eleccion', function () {
     return view('control.elections.election');
 });
 
@@ -17,6 +17,17 @@ Route::get('/boleta', function () {
 
 Route::get('/demanda', function () {
     return view('control.elections.demand');
+});
+
+
+Route::get('/nueva-eleccion', function () {
+    return view('control.admin.new-election');
+});
+Route::get('/partidos', function () {
+    return view('control.admin.new-politic');
+});
+Route::get('/usuarios', function () {
+    return view('control.admin.new-user');
 });
 
 

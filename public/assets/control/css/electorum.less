@@ -3,6 +3,8 @@
 @black-color: #323430;
 @secondary-color: #db7070;
 
+@text-template: #73879C;
+
 .menu_section h3{
     color: @black-color;
     text-shadow: 0 0 0;
@@ -52,6 +54,12 @@
 .color-red{
     color: @secondary-color;
 }
+.color-green{
+    color: @primary-color;
+}
+.color-gray{
+    color: @text-template;
+}
 
 .absolute-right{
     position: absolute;
@@ -76,16 +84,25 @@ table.table{
             td{
                 &:first-of-type{
                     text-align: center;
+                    vertical-align: middle;
                 }
             }
         }
     }
 }
 
-.table-sign{
+.table-done{
     td{
         &:first-of-type{
-            border-left: 5px solid @secondary-color !important;
+            border-left: 5px solid @primary-color !important;
+        }
+    }
+}
+
+.table-pause{
+    td{
+        &:first-of-type{
+            border-left: 5px solid @black-color !important;
         }
     }
 }

@@ -79,8 +79,8 @@
                 </select>
             </div>
             <div class="col-md-4 text-right">
-                <div class="btn-inline">Siguiente</div>
-                <div class="btn-inline">Anterior</div>
+                <a href="/distrito" class="btn-inline"><i class="fa fa-pause" aria-hidden="true"></i> Pausa</a>
+                <div class="btn-inline">Siguiente <i class="fa fa-arrow-right" aria-hidden="true" style="margin-left: 5px;"></i></div>
             </div>
         </div>
     </div>

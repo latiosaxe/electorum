@@ -45,6 +45,12 @@
 .color-red {
   color: #db7070;
 }
+.color-green {
+  color: #b0b536;
+}
+.color-gray {
+  color: #73879C;
+}
 .absolute-right {
   position: absolute;
   right: 20px;
@@ -62,9 +68,13 @@
 }
 table.table tbody tr td:first-of-type {
   text-align: center;
+  vertical-align: middle;
 }
-.table-sign td:first-of-type {
-  border-left: 5px solid #db7070 !important;
+.table-done td:first-of-type {
+  border-left: 5px solid #b0b536 !important;
+}
+.table-pause td:first-of-type {
+  border-left: 5px solid #323430 !important;
 }
 .nav.child_menu {
   display: block;
