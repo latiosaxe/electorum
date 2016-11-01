@@ -17,7 +17,7 @@
                     <div class="x_title text-center">
                         <h2>Distritos</h2>
                         <div class="absolute-right" style="top:6px;">
-                            <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-book"></i> Generar Demanda</a>
+                            <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-eye"></i> Solicitar recuento</a>
                         </div>
                         <div class="clearfix"></div>
                     </div>
@@ -26,12 +26,13 @@
                         <table id="datatable" class="table table-striped table-bordered bulk_action">
                             <thead>
                             <tr>
-                                <th style="width: 1%">Distrito</th>
+                                <th style="width: 20px">Distrito</th>
                                 <th style="width: 20%">Nombre</th>
-                                <th>Número de casillas</th>
+                                <th>Partido 1er lugar</th>
+                                <th>Partido 2do lugar</th>
                                 <th>Votación Total</th>
                                 <th>Voto Nulos</th>
-                                <th style="width: 40px">Incidencias</th>
+                                <th style="width: 40px">Detalle</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -41,144 +42,116 @@
                                     XXXX1
                                 </td>
                                 <td>
-                                    XXX
+                                    PRI
                                 </td>
                                 <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                    </div>
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
+                                    2% (3425)
+                                </td>
+                                <td>
+                                    <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
-                                <td>2</td>
+                                <td>1</td>
                                 <td>
-                                    XXXX2
+                                    XXXX1
                                 </td>
                                 <td>
-                                    XXX
+                                    PRI
                                 </td>
                                 <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                    </div>
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>3</td>
-                                <td>
-                                    XXXX3
+                                    2% (3425)
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>
-                                    XXX
-                                </td>
-                                <td>
-                                    X%
-                                </td>
-                                <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
+                                    <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
-                                <td>4</td>
+                                <td>1</td>
                                 <td>
-                                    XXXX4
+                                    XXXX1
                                 </td>
                                 <td>
-                                    XXX
+                                    PRI
                                 </td>
                                 <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="15" aria-valuenow="15" style="width: 15%;">15%</div>
+                                    </div>
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>5</td>
-                                <td>
-                                    XXXX5
+                                    2% (3425)
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>
-                                    XXX
-                                </td>
-                                <td>
-                                    X%
-                                </td>
-                                <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
+                                    <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
-                                <td>6</td>
+                                <td>1</td>
                                 <td>
-                                    XXXX6
+                                    XXXX1
                                 </td>
                                 <td>
-                                    XXX
+                                    PRI
                                 </td>
                                 <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                    </div>
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>7</td>
-                                <td>
-                                    XXXX7
+                                    2% (3425)
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>
-                                    XXX
-                                </td>
-                                <td>
-                                    X%
-                                </td>
-                                <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
+                                    <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
                             <tr>
-                                <td>8</td>
+                                <td>1</td>
                                 <td>
-                                    XXXX8
+                                    XXXX1
                                 </td>
                                 <td>
-                                    XXX
+                                    PRI
                                 </td>
                                 <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                    </div>
                                 </td>
                                 <td>
-                                    <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
+                                    2% (3425)
+                                </td>
+                                <td>
+                                    <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
+
                             </tbody>
                         </table>
                     </div>

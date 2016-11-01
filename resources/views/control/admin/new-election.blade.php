@@ -59,6 +59,18 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="password">Partido/alianza asociad(a)
+                                </label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <select class="select2_group form-control">
+                                        <option seleted="selected">Partido político</option>
+                                        <option value="1">PRI</option>
+                                        <option value="1">PAN</option>
+                                        <option value="1">PRD</option>
+                                    </select>
+                                </div>
+                            </div>
                             <div class="ln_solid"></div>
                             <div class="form-group">
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Liga de PREP
@@ -203,7 +215,7 @@
                             </div>
                             <div class="form-group">
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">
-                                    Incidencias
+                                    Causales
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <div class="row" style="margin-bottom: 10px;">
@@ -248,10 +260,49 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
                                     <a href="#" class="color-green">Agregar otra incidencia <i class="fa fa-plus-circle"></i> </a>
+                                </div>
+                            </div>
+
+                            <div class="ln_solid"></div>
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Identificación de distritos
+                                </label>
+                                <div class="col-md-6 col-sm--6 col-xs-12">
+                                    <p>Diferencia entre 1er lugar y 2do lugar es:</p>
+                                    <div class="row">
+                                        <div class="col-md-6 col-sm--6 col-xs-12">
+                                            <label for="type1">
+                                                <input type="radio" name="type" id="type1"> Menor al 1%
+                                            </label>
+                                        </div>
+                                        <div class="col-md-6 col-sm--6 col-xs-12">
+                                            <label for="type2">
+                                                <input type="radio" name="type" id="type2"> Menor o igual al 1%
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Identificación de casillas
+                                </label>
+                                <div class="col-md-6 col-sm--6 col-xs-12">
+                                    <p>Diferencia entre 1er lugar y 2do lugar comparada con los votos nulos es:</p>
+                                    <div class="row">
+                                        <div class="col-md-6 col-sm--6 col-xs-12">
+                                            <label for="type1">
+                                                <input type="radio" name="type" id="type1"> Menor al 1%
+                                            </label>
+                                        </div>
+                                        <div class="col-md-6 col-sm--6 col-xs-12">
+                                            <label for="type2">
+                                                <input type="radio" name="type" id="type2"> Menor o igual al 1%
+                                            </label>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="ln_solid"></div>

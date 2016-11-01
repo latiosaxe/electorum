@@ -42,7 +42,8 @@
                                 <th>Tipo</th>
                                 <th>Periodo</th>
                                 <th>Estatus</th>
-                                <th style="width: 50px">Revisar</th>
+                                <th style="width: 50px">Recuento</th>
+                                <th style="width: 50px">Incidencias</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -60,8 +61,11 @@
                                 <td>
                                     <p class="color-orange">En progreso</p>
                                 </td>
-                                <td>
-                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                <td class="text-center">
+                                    <a href="/eleccion-recuento" class="btn btn-info btn-xs"><i class="fa fa-2x fa-binoculars" aria-hidden="true"></i></a>
+                                </td>
+                                <td class="text-center">
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-2x fa-bullseye" aria-hidden="true"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -78,8 +82,11 @@
                                 <td>
                                     <p class="color-blue">Completada</p>
                                 </td>
-                                <td>
-                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                <td class="text-center">
+                                    <a href="/eleccion-recuento" class="btn btn-info btn-xs"><i class="fa fa-2x fa-binoculars" aria-hidden="true"></i></a>
+                                </td>
+                                <td class="text-center">
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-2x fa-bullseye" aria-hidden="true"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -96,8 +103,11 @@
                                 <td>
                                     <p class="color-blue">Completada</p>
                                 </td>
-                                <td>
-                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                <td class="text-center">
+                                    <a href="/eleccion-recuento" class="btn btn-info btn-xs"><i class="fa fa-2x fa-binoculars" aria-hidden="true"></i></a>
+                                </td>
+                                <td class="text-center">
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-2x fa-bullseye" aria-hidden="true"></i></a>
                                 </td>
                             </tr>
                             <tr>
@@ -114,8 +124,11 @@
                                 <td>
                                     <p class="color-blue">Completada</p>
                                 </td>
-                                <td>
-                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-pencil"></i> Detalle</a>
+                                <td class="text-center">
+                                    <a href="/eleccion-recuento" class="btn btn-info btn-xs"><i class="fa fa-2x fa-binoculars" aria-hidden="true"></i></a>
+                                </td>
+                                <td class="text-center">
+                                    <a href="/eleccion" class="btn btn-info btn-xs"><i class="fa fa-2x fa-bullseye" aria-hidden="true"></i></a>
                                 </td>
                             </tr>
                             </tbody>

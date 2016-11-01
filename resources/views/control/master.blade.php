@@ -73,16 +73,32 @@
                         <h3><a href="/">Inicio</a></h3>
                         <ul class="nav child_menu">
                             <li>
-                                <a href="/jornada">Oaxaca, Gobernador</a>
+                                <a href="/eleccion">Oaxaca, Gobernador</a>
+                                <ul class="nav child_menu">
+                                    <li><a href="/eleccion-recuento">Recuento</a></li>
+                                    <li><a href="/eleccion">Incidencias</a></li>
+                                </ul>
                             </li>
                             <li>
-                                <a href="/jornada">Oaxaca, Diputado</a>
+                                <a href="/eleccion">Oaxaca, Diputado</a>
+                                <ul class="nav child_menu">
+                                    <li><a href="/eleccion-recuento">Recuento</a></li>
+                                    <li><a href="/eleccion">Incidencias</a></li>
+                                </ul>
                             </li>
                             <li>
-                                <a href="/jornada">Queretaro, Gobernador</a>
+                                <a href="/eleccion">Queretaro, Gobernador</a>
+                                <ul class="nav child_menu">
+                                    <li><a href="/eleccion-recuento">Recuento</a></li>
+                                    <li><a href="/eleccion">Incidencias</a></li>
+                                </ul>
                             </li>
                             <li>
-                                <a href="/jornada">Queretaro, Diputado</a>
+                                <a href="/eleccion">Queretaro, Diputado</a>
+                                <ul class="nav child_menu">
+                                    <li><a href="/eleccion-recuento">Recuento</a></li>
+                                    <li><a href="/eleccion">Incidencias</a></li>
+                                </ul>
                             </li>
                         </ul>
 

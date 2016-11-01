@@ -7,7 +7,7 @@
             </div>
             <div class="title_right">
                 <p class="text-right" style="margin-top: 15px;">
-                    <strong><span class="color-green">Verde</span></strong> = causales completados, <strong><span class="color-gray-2">Gris</span></strong> = causales en pausa
+                    <strong><span class="color-green">Verde</span></strong> = Recuento confirmado, <strong><span class="color-gray-2">Gris</span></strong> = Recuento posible
                 </p>
             </div>
         </div>
@@ -31,10 +31,10 @@
                             <tr>
                                 <th style="width: 1%">Registro</th>
                                 <th style="width: 20%">Numero de boleta</th>
-                                <th>Total causales</th>
-                                <th>Votación total</th>
                                 <th>Partido 1er lugar</th>
                                 <th>Partido 2do lugar</th>
+                                <th>Diferencia</th>
+                                <th>Votos nulos</th>
                                 <th style="width: 50px">Ver boleta</th>
                             </tr>
                             </thead>
@@ -45,14 +45,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>5</td>
-                                <td>
                                     PAN
                                 </td>
                                 <td>
                                     PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -61,17 +61,17 @@
                             <tr class="table-pause">
                                 <td>2</td>
                                 <td>
-                                    XX2
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>2</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -80,17 +80,17 @@
                             <tr class="table-done">
                                 <td>3</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -99,17 +99,17 @@
                             <tr class="table-sign">
                                 <td>4</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -121,14 +121,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -137,17 +137,17 @@
                             <tr>
                                 <td>6</td>
                                 <td>
-                                    XX2
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -156,17 +156,17 @@
                             <tr class="table-sign">
                                 <td>7</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -175,17 +175,17 @@
                             <tr>
                                 <td>8</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -194,17 +194,17 @@
                             <tr>
                                 <td>9</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -213,17 +213,17 @@
                             <tr class="table-sign">
                                 <td>10</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -235,14 +235,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -251,17 +251,17 @@
                             <tr>
                                 <td>12</td>
                                 <td>
-                                    XX2
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -270,17 +270,17 @@
                             <tr class="table-sign">
                                 <td>13</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -289,17 +289,17 @@
                             <tr>
                                 <td>14</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
-                                </td>
-                                <td>-</td>
-                                <td>
-                                    XXX
+                                    PAN
                                 </td>
                                 <td>
-                                    X%
+                                    PRI
+                                </td>
+                                <td>0.5%</td>
+                                <td>
+                                    <strong>1.5%</strong> (15487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>

@@ -51,6 +51,9 @@
 .color-gray {
   color: #73879C;
 }
+.color-gray-2 {
+  color: #323430;
+}
 .absolute-right {
   position: absolute;
   right: 20px;
@@ -66,6 +69,12 @@
   background: #c1cd7d;
   border-color: #c1cd7d;
 }
+table.table tbody tr td {
+  vertical-align: middle;
+}
+table.table tbody tr td .progress {
+  margin: 0;
+}
 table.table tbody tr td:first-of-type {
   text-align: center;
   vertical-align: middle;
@@ -80,5 +89,14 @@ table.table tbody tr td:first-of-type {
   display: block;
 }
 .menu_section h3 a {
+  color: #323430;
+}
+.progress-bar-success {
+  background: #b0b536;
+}
+.nav li li.current-page {
+  background: transparent;
+}
+.nav li li.current-page a {
   color: #323430;
 }
