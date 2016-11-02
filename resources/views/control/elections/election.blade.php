@@ -47,7 +47,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -65,7 +65,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -83,7 +83,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -101,7 +101,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -119,7 +119,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -137,7 +137,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -155,7 +155,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -173,7 +173,7 @@
                                     XXX
                                 </td>
                                 <td>
-                                    X%
+                                    1,452
                                 </td>
                                 <td>
                                     <a href="/distrito" class="btn btn-info"><i class="fa fa-search"></i></a>

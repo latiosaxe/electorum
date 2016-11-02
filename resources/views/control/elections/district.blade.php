@@ -45,14 +45,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
                                 <td>5</td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -61,17 +61,17 @@
                             <tr class="table-pause">
                                 <td>2</td>
                                 <td>
-                                    XX2
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>2</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -80,17 +80,17 @@
                             <tr class="table-done">
                                 <td>3</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -99,17 +99,17 @@
                             <tr class="table-sign">
                                 <td>4</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -121,14 +121,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -137,17 +137,17 @@
                             <tr>
                                 <td>6</td>
                                 <td>
-                                    XX2
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -156,17 +156,17 @@
                             <tr class="table-sign">
                                 <td>7</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -175,17 +175,17 @@
                             <tr>
                                 <td>8</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -194,17 +194,17 @@
                             <tr>
                                 <td>9</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -213,17 +213,17 @@
                             <tr class="table-sign">
                                 <td>10</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -235,14 +235,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -251,17 +251,17 @@
                             <tr>
                                 <td>12</td>
                                 <td>
-                                    XX2
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -270,17 +270,17 @@
                             <tr class="table-sign">
                                 <td>13</td>
                                 <td>
-                                    XX3-B
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -289,17 +289,17 @@
                             <tr>
                                 <td>14</td>
                                 <td>
-                                    XX4
+                                    XX1
                                 </td>
                                 <td>
-                                    XXX
+                                    2
                                 </td>
-                                <td>-</td>
+                                <td>5</td>
                                 <td>
-                                    XXX
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    X%
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>

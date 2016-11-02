@@ -94,6 +94,15 @@ table.table tbody tr td:first-of-type {
 .progress-bar-success {
   background: #b0b536;
 }
+.icon-spot {
+  color: #FFF;
+  float: right;
+  padding: 0 10px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 50%;
+  background: #b0b536;
+}
 .nav li li.current-page {
   background: transparent;
 }

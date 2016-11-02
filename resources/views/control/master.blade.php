@@ -17,7 +17,8 @@
     <link href="assets/control/libs/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet">
     <link href="assets/control/libs/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" rel="stylesheet">
     <link href="assets/control/libs/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
-    <link href="assets/control/libs/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
+    <link href="assets/control/libs/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet"><!-- Select2 -->
+    <link href="assets/control/libs/select2/dist/css/select2.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/control/css/custom.min.css"/>
     <link rel="stylesheet" href="assets/control/css/electorum.css"/>
@@ -60,7 +61,7 @@
                         <h3><a href="/">Admin</a></h3>
                         <ul class="nav child_menu">
                             <li>
-                                <a href="/nueva-eleccion">Nueva elección</a>
+                                <a href="/nueva-eleccion">Elección</a>
                             </li>
                             <li>
                                 <a href="/partidos">Partidos políticos</a>
@@ -76,28 +77,28 @@
                                 <a href="/eleccion">Oaxaca, Gobernador</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Incidencias</a></li>
+                                    <li><a href="/eleccion">Causales</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/eleccion">Oaxaca, Diputado</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Incidencias</a></li>
+                                    <li><a href="/eleccion">Causales</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/eleccion">Queretaro, Gobernador</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Incidencias</a></li>
+                                    <li><a href="/eleccion">Causales</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/eleccion">Queretaro, Diputado</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Incidencias</a></li>
+                                    <li><a href="/eleccion">Causales</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -187,6 +188,7 @@
 <!-- bootstrap-progressbar -->
 <script src="assets/control/libs/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
 
+<script src="assets/control/libs/select2/dist/js/select2.full.min.js"></script>
 
 <script src="assets/control/js/custom.min.js"></script>
 

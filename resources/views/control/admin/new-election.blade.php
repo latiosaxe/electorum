@@ -63,11 +63,11 @@
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="password">Partido/alianza asociad(a)
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option seleted="selected">Partido político</option>
-                                        <option value="1">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
@@ -162,14 +162,14 @@
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
                                     <select class="select2_group form-control" disabled="disabled">
-                                        <option value="1" seleted="selected">Otros</option>
+                                        <option value="1" seleted="selected">Candidatos no registrados</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
                                     <select class="select2_group form-control" disabled="disabled">
-                                        <option value="1" seleted="selected">Nulos</option>
+                                        <option value="1" seleted="selected">Votos nulos</option>
                                     </select>
                                 </div>
                             </div>
@@ -262,7 +262,7 @@
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <a href="#" class="color-green">Agregar otra incidencia <i class="fa fa-plus-circle"></i> </a>
+                                    <a href="#" class="color-green">Agregar otra causal <i class="fa fa-plus-circle"></i> </a>
                                 </div>
                             </div>
 
@@ -337,6 +337,11 @@
     <script src="assets/control/libs/datatables.net-scroller/js/datatables.scroller.min.js"></script>
     <script>
         $(document).ready(function(){
+            $(".select2_multiple").select2({
+                maximumSelectionLength: 4,
+                placeholder: "Máximo se permiten 4",
+                allowClear: true
+            });
         });
     </script>
 @endsection

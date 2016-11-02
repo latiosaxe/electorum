@@ -25,12 +25,11 @@
 
 
                     <div class="x_content">
-                        <!-- start project list -->
                         <table id="datatable" class="table table-striped table-bordered bulk_action">
                             <thead>
                             <tr>
                                 <th style="width: 1%">Registro</th>
-                                <th style="width: 20%">Numero de boleta</th>
+                                <th style="width: 20%">Numero de Casilla</th>
                                 <th>Partido 1er lugar</th>
                                 <th>Partido 2do lugar</th>
                                 <th>Diferencia</th>
@@ -45,14 +44,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
-                                    <strong>1.5%</strong> (15487)
+                                    <strong>1.5%</strong> (15,487)
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -64,12 +63,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -83,14 +82,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span></i>
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
-                                    <strong>1.5%</strong> (15487)
+                                    1,487
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -102,14 +101,14 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
-                                    <strong>1.5%</strong> (15487)
+                                    1,487
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -121,12 +120,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -140,12 +139,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -159,12 +158,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -178,12 +177,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -197,12 +196,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -216,12 +215,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -235,12 +234,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -254,12 +253,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -273,12 +272,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -292,12 +291,12 @@
                                     XX1
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>0.5%</td>
+                                <td>1,249 (0.5%)</td>
                                 <td>
                                     <strong>1.5%</strong> (15487)
                                 </td>
@@ -307,7 +306,6 @@
                             </tr>
                             </tbody>
                         </table>
-                        <!-- end project list -->
                     </div>
                 </div>
             </div>

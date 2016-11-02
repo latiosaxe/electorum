@@ -43,7 +43,7 @@
                                 <th>Periodo</th>
                                 <th>Estatus</th>
                                 <th style="width: 50px">Recuento</th>
-                                <th style="width: 50px">Incidencias</th>
+                                <th style="width: 50px">Causales</th>
                             </tr>
                             </thead>
                             <tbody>

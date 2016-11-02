@@ -42,18 +42,18 @@
                                     XXXX1
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
                                     </div>
                                 </td>
                                 <td>
-                                    2% (3425)
+                                    154
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -65,18 +65,18 @@
                                     XXXX1
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
                                     </div>
                                 </td>
                                 <td>
-                                    2% (3425)
+                                    346
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -88,18 +88,18 @@
                                     XXXX1
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="15" aria-valuenow="15" style="width: 15%;">15%</div>
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="45" aria-valuenow="45" style="width: 45%;">45% (23,546)</div>
                                     </div>
                                 </td>
                                 <td>
-                                    2% (3425)
+                                    346
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -111,18 +111,18 @@
                                     XXXX1
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
                                     </div>
                                 </td>
                                 <td>
-                                    2% (3425)
+                                    346
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -134,18 +134,18 @@
                                     XXXX1
                                 </td>
                                 <td>
-                                    PRI
+                                    <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    PAN
+                                    <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
                                     <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75%</div>
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
                                     </div>
                                 </td>
                                 <td>
-                                    2% (3425)
+                                    346
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
