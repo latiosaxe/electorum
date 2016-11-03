@@ -30,7 +30,7 @@
                             <thead>
                             <tr>
                                 <th style="width: 1%">Registro</th>
-                                <th style="width: 20%">Numero de boleta</th>
+                                <th style="width: 20%">Número de casilla</th>
                                 <th>Total causales</th>
                                 <th>Votación total</th>
                                 <th>Partido 1er lugar</th>

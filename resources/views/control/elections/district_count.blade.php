@@ -44,15 +44,13 @@
                                     XX1
                                 </td>
                                 <td>
-                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15,487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -68,10 +66,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -82,15 +78,13 @@
                                     XX1
                                 </td>
                                 <td>
-                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span></i>
+                                    <strong>PRI</strong> | 5,234 votos | 35%</i>
                                 </td>
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    1,487
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -106,10 +100,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    1,487
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -125,15 +117,13 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="table-pause">
                                 <td>6</td>
                                 <td>
                                     XX1
@@ -144,10 +134,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -163,15 +151,13 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="table-done">
                                 <td>8</td>
                                 <td>
                                     XX1
@@ -182,10 +168,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -201,15 +185,13 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr class="table-sign">
+                            <tr class="table-pause">
                                 <td>10</td>
                                 <td>
                                     XX1
@@ -220,10 +202,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -239,15 +219,13 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="table-done">
                                 <td>12</td>
                                 <td>
                                     XX1
@@ -258,10 +236,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -277,15 +253,13 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr class="table-done">
                                 <td>14</td>
                                 <td>
                                     XX1
@@ -296,10 +270,8 @@
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
-                                <td>1,249 (0.5%)</td>
-                                <td>
-                                    <strong>1.5%</strong> (15487)
-                                </td>
+                                <td>1,249</td>
+                                <td>1,5487</td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>

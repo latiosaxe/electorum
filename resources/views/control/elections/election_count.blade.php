@@ -30,8 +30,8 @@
                                 <th style="width: 20%">Nombre</th>
                                 <th>Partido 1er lugar</th>
                                 <th>Partido 2do lugar</th>
+                                <th>Diferencia</th>
                                 <th>Votación Total</th>
-                                <th>Voto Nulos</th>
                                 <th style="width: 40px">Detalle</th>
                             </tr>
                             </thead>
@@ -48,12 +48,12 @@
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
-                                    <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
-                                    </div>
+                                    1,249 (0.5%)
                                 </td>
                                 <td>
-                                    154
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">23,546 (75%)</div>
+                                    </div>
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -71,12 +71,12 @@
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
-                                    <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
-                                    </div>
+                                    1,249 (0.5%)
                                 </td>
                                 <td>
-                                    346
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">23,546 (75%)</div>
+                                    </div>
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -94,12 +94,12 @@
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
-                                    <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="45" aria-valuenow="45" style="width: 45%;">45% (23,546)</div>
-                                    </div>
+                                    1,249 (0.5%)
                                 </td>
                                 <td>
-                                    346
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="45" aria-valuenow="45" style="width: 45%;">14,923 (45%)</div>
+                                    </div>
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -117,12 +117,12 @@
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
-                                    <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
-                                    </div>
+                                    1,249 (0.5%)
                                 </td>
                                 <td>
-                                    346
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">23,546 (75%)</div>
+                                    </div>
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -140,18 +140,17 @@
                                     <strong>PAN</strong> | 3,985 votos | 19%
                                 </td>
                                 <td>
-                                    <div class="progress">
-                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">75% (23,546)</div>
-                                    </div>
+                                    1,249 (0.5%)
                                 </td>
                                 <td>
-                                    346
+                                    <div class="progress">
+                                        <div class="progress-bar progress-bar-success" data-transitiongoal="75" aria-valuenow="75" style="width: 75%;">23,546 (75%)</div>
+                                    </div>
                                 </td>
                                 <td>
                                     <a href="/distrito-recuento" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
-
                             </tbody>
                         </table>
                     </div>

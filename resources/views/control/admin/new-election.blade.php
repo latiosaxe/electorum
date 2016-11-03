@@ -73,7 +73,7 @@
                             </div>
                             <div class="ln_solid"></div>
                             <div class="form-group">
-                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Liga de PREP
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">URL del PREP
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <input type="text" id="url" required="required" class="form-control col-md-7 col-xs-12" placeholder="http://">
@@ -207,7 +207,7 @@
                             </div>
                             <div class="form-group">
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">
-                                    Machote de demanda
+                                    Plantilla de demanda
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <input type="file" id="url" class="form-control col-md-7 col-xs-12" placeholder="http://">
@@ -268,7 +268,7 @@
 
                             <div class="ln_solid"></div>
                             <div class="form-group">
-                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Identificación de distritos
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Regla para recuento de distritos
                                 </label>
                                 <div class="col-md-6 col-sm--6 col-xs-12">
                                     <p>Diferencia entre 1er lugar y 2do lugar es:</p>
@@ -287,7 +287,7 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Identificación de casillas
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Regla para recuento de casillas
                                 </label>
                                 <div class="col-md-6 col-sm--6 col-xs-12">
                                     <p>Diferencia entre 1er lugar y 2do lugar comparada con los votos nulos es:</p>

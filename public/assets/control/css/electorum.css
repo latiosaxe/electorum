@@ -97,7 +97,9 @@ table.table tbody tr td:first-of-type {
 .icon-spot {
   color: #FFF;
   float: right;
-  padding: 0 10px;
+  width: 30px;
+  height: 30px;
+  padding: 2px 5px;
   overflow: hidden;
   text-align: center;
   border-radius: 50%;
