@@ -64,7 +64,7 @@
                                     <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
@@ -129,7 +129,7 @@
                                     XX1
                                 </td>
                                 <td>
-                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
@@ -166,7 +166,7 @@
                                     <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
@@ -200,7 +200,7 @@
                                     <strong>PRI</strong> | 5,234 votos | 35%
                                 </td>
                                 <td>
-                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PAN</strong> | 3,985 votos | 19% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
@@ -231,7 +231,7 @@
                                     XX1
                                 </td>
                                 <td>
-                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
@@ -265,7 +265,7 @@
                                     XX1
                                 </td>
                                 <td>
-                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-thumb-tack" aria-hidden="true"></i></span>
+                                    <strong>PRI</strong> | 5,234 votos | 35% <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span>
                                 </td>
                                 <td>
                                     <strong>PAN</strong> | 3,985 votos | 19%
