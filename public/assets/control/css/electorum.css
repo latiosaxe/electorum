@@ -111,3 +111,14 @@ table.table tbody tr td:first-of-type {
 .nav li li.current-page a {
   color: #323430;
 }
+.subtitle-data {
+  text-align: left;
+}
+.subtitle-data .icon-spot {
+  float: none;
+  color: #FFF;
+  padding: 5px;
+  margin-right: 8px;
+  display: inline-block;
+  vertical-align: middle;
+}

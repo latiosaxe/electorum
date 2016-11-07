@@ -34,7 +34,7 @@
                                 <th>Partido 2do lugar</th>
                                 <th>Diferencia</th>
                                 <th>Votos nulos</th>
-                                <th style="width: 50px">Ver boleta</th>
+                                <th style="width: 50px">Ver acta</th>
                             </tr>
                             </thead>
                             <tbody>

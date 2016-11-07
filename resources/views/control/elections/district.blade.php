@@ -35,7 +35,7 @@
                                 <th>Votación total</th>
                                 <th>Partido 1er lugar</th>
                                 <th>Partido 2do lugar</th>
-                                <th style="width: 50px">Ver boleta</th>
+                                <th style="width: 50px">Ver acta</th>
                             </tr>
                             </thead>
                             <tbody>
