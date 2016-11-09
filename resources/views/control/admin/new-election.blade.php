@@ -60,7 +60,7 @@
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="password">Partido/alianza asociad(a)
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="password">Partido/Coalición
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <select class="select2_multiple form-control" multiple="multiple">
@@ -83,73 +83,81 @@
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Partidos Políticos
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <div class="col-md-offset-3 col-md-6 col-sm-6 col-xs-12">
-                                    <select class="select2_group form-control">
-                                        <option value="1" seleted="selected">PRI</option>
-                                        <option value="1">PAN</option>
-                                        <option value="1">PRD</option>
+                                    <select class="select2_multiple form-control" multiple="multiple">
+                                        <option>Puedes elegir mas de una opción si es una alianza</option>
+                                        <option>PRI</option>
+                                        <option>PAN</option>
+                                        <option>PRD</option>
                                     </select>
                                 </div>
                             </div>
@@ -208,6 +216,14 @@
                             <div class="form-group">
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">
                                     Plantilla de demanda
+                                </label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input type="file" id="url" class="form-control col-md-7 col-xs-12" placeholder="http://">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">
+                                    Plantilla de solicitud de recuento
                                 </label>
                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                     <input type="file" id="url" class="form-control col-md-7 col-xs-12" placeholder="http://">
@@ -290,16 +306,16 @@
                                 <label class="control-label col-md-3 col-sm-3 col-xs-12" for="url">Regla para recuento de casillas
                                 </label>
                                 <div class="col-md-6 col-sm--6 col-xs-12">
-                                    <p>Diferencia entre 1er lugar y 2do lugar comparada con los votos nulos es:</p>
+                                    <p>El resultado de la diferencia entre el 1er y 2do lugar versus el total de votos nulos es:</p>
                                     <div class="row">
                                         <div class="col-md-6 col-sm--6 col-xs-12">
                                             <label for="type1">
-                                                <input type="radio" name="type" id="type1"> Menor al 1%
+                                                <input type="radio" name="type" id="type1"> Menor
                                             </label>
                                         </div>
                                         <div class="col-md-6 col-sm--6 col-xs-12">
                                             <label for="type2">
-                                                <input type="radio" name="type" id="type2"> Menor o igual al 1%
+                                                <input type="radio" name="type" id="type2"> Menor o igual
                                             </label>
                                         </div>
                                     </div>
@@ -338,8 +354,7 @@
     <script>
         $(document).ready(function(){
             $(".select2_multiple").select2({
-                maximumSelectionLength: 4,
-                placeholder: "Máximo se permiten 4",
+                placeholder: "Puedes seleccionar mas de un partido",
                 allowClear: true
             });
         });

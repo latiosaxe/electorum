@@ -20,7 +20,7 @@
                             <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-eye"></i> Solicitar recuento</a>
                         </div>
                         <div class="clearfix"></div>
-                        <p class="subtitle-data"><span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span> Posición final del partido o alianza</p>
+                        <p class="subtitle-data"><span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span> Posición final del partido ocoalición</p>
                     </div>
                     <div class="x_content">
                         <!-- start project list -->

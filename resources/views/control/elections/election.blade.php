@@ -31,7 +31,7 @@
                                 <th>Número de casillas</th>
                                 <th>Votación Total</th>
                                 <th>Voto Nulos</th>
-                                <th style="width: 40px">Detallew</th>
+                                <th style="width: 40px">Detalle</th>
                             </tr>
                             </thead>
                             <tbody>
