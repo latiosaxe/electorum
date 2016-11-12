@@ -46,7 +46,7 @@
     color: #FFF;
 }
 .color-orange{
-    color: rgba(243,156,18,0.88);
+    color: rgba(243,156,18,0.88) !important;
 }
 .color-blue{
     color: #5bc0de;
@@ -55,7 +55,7 @@
     color: @secondary-color;
 }
 .color-green{
-    color: @primary-color;
+    color: @primary-color !important;
 }
 .color-gray{
     color: @text-template;
@@ -68,6 +68,10 @@
     position: absolute;
     right: 20px;
     top: 15px;
+}
+
+.up-aux{
+    margin: 5px 0 0;
 }
 
 .btn-electorum{
@@ -150,6 +154,8 @@ table.table{
 
 .subtitle-data{
     text-align: left;
+    margin-left: 20px;
+    display: inline-block;
     .icon-spot{
         float: none;
         color: #FFF;
@@ -158,4 +164,11 @@ table.table{
         display: inline-block;
         vertical-align: middle;
     }
+}
+
+.x_title h2.small-title{
+    float: none;
+    width: auto;
+    vertical-align: middle;
+    display: inline-block;
 }

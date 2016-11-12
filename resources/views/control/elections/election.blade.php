@@ -294,3 +294,11 @@
         });
     </script>
 @endsection
+
+
+{{--Causales--}}
+{{--Recuento--}}
+{{--Nulidad--}}
+
+
+{{--Para recuento quitar Dirección y funcionales (1 y 13)--}}

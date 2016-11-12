@@ -77,7 +77,7 @@
                                 <a href="/eleccion">Oaxaca, Gobernador</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Causales</a></li>
+                                    <li><a href="/eleccion">Nulidad</a></li>
                                 </ul>
                             </li>
                             <li>

@@ -18,9 +18,20 @@
             <div class="col-md-12">
                 <div class="x_panel">
                     <div class="x_title text-center">
-                        <h2>Relación de casillas</h2>
-                        <p class="absolute-right"><strong>48%</strong> de casillas revisadas</p>
-                        <div class="clearfix"></div>
+                        <div class="row">
+                            <div class="col-md-4 text-left">
+                                <h2 class="small-title">Relación de casillas</h2>
+                            </div>
+                            <div class="col-md-6 text-left">
+                                <p class="up-aux"><strong><span class="color-green">2120 casillas ganadas</span>, <span class="color-orange">523 casillas perdidas</span></strong></p>
+                            </div>
+                            <div class="col-md-2 text-right">
+                                <p><strong>48%</strong> de casillas revisadas</p>
+                            </div>
+                        </div>
+                        {{--<h2>Relación de casillas</h2>--}}
+                        {{--<p class="absolute-right"></p>--}}
+                        {{--<div class="clearfix"></div>--}}
                     </div>
 
 
@@ -283,7 +294,6 @@
             </div>
         </div>
     </div>
-
 @endsection
 
 

@@ -15,12 +15,18 @@
             <div class="col-md-12">
                 <div class="x_panel">
                     <div class="x_title text-center">
-                        <h2>Distritos</h2>
-                        <div class="absolute-right" style="top:6px;">
-                            <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-eye"></i> Solicitar recuento</a>
+                        <div class="row">
+                            <div class="col-md-4 text-left">
+                                <h2 class="small-title">Distritos</h2>
+                                <p class="subtitle-data"> <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span> Posición final del partido ocoalición</p>
+                            </div>
+                            <div class="col-md-6 text-left">
+                                <p class="up-aux"><strong><span class="color-green">212 distritos ganados</span>, <span class="color-orange">95 distritos perdidos</span></strong></p>
+                            </div>
+                            <div class="col-md-2 text-right">
+                                <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-eye"></i> Solicitar recuento</a>
+                            </div>
                         </div>
-                        <div class="clearfix"></div>
-                        <p class="subtitle-data"><span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span> Posición final del partido ocoalición</p>
                     </div>
                     <div class="x_content">
                         <!-- start project list -->
