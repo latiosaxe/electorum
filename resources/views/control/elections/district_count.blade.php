@@ -22,11 +22,12 @@
                             <div class="col-md-4 text-left">
                                 <h2 class="small-title">Relación de casillas</h2>
                             </div>
-                            <div class="col-md-6 text-left">
+                            <div class="col-md-5 text-left">
                                 <p class="up-aux"><strong><span class="color-green">2120 casillas ganadas</span>, <span class="color-orange">523 casillas perdidas</span></strong></p>
                             </div>
-                            <div class="col-md-2 text-right">
-                                <p><strong>48%</strong> de casillas revisadas</p>
+                            <div class="col-md-3 text-right">
+                                <p class="btn-inline"><strong>48%</strong> de casillas revisadas</p>
+                                <a href="#" class="btn btn-info btn-inline"><i class="fa fa-print"></i> Imprimir</a>
                             </div>
                         </div>
                         {{--<h2>Relación de casillas</h2>--}}

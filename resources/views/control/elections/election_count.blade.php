@@ -20,11 +20,12 @@
                                 <h2 class="small-title">Distritos</h2>
                                 <p class="subtitle-data"> <span class="icon-spot"><i class="fa fa-star" aria-hidden="true"></i></span> Posición final del partido ocoalición</p>
                             </div>
-                            <div class="col-md-6 text-left">
+                            <div class="col-md-5 text-left">
                                 <p class="up-aux"><strong><span class="color-green">212 distritos ganados</span>, <span class="color-orange">95 distritos perdidos</span></strong></p>
                             </div>
-                            <div class="col-md-2 text-right">
-                                <a href="#" id="generate" class="btn btn-electorum"><i class="fa fa-eye"></i> Solicitar recuento</a>
+                            <div class="col-md-3 text-right">
+                                <a href="#" id="generate" class="btn btn-electorum btn-inline"><i class="fa fa-eye"></i> Solicitar recuento</a>
+                                <a href="#" class="btn btn-info btn-inline"><i class="fa fa-print"></i> Imprimir</a>
                             </div>
                         </div>
                     </div>

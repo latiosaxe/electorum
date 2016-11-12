@@ -133,3 +133,6 @@ table.table tbody tr td:first-of-type {
   vertical-align: middle;
   display: inline-block;
 }
+.btn-inline {
+  display: inline-block;
+}
