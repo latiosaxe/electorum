@@ -41,11 +41,12 @@
                             <thead>
                             <tr>
                                 <th style="width: 1%">Registro</th>
-                                <th style="width: 20%">Numero de Casilla</th>
+                                <th style="width: 120px">Numero de Casilla</th>
                                 <th>Partido 1er lugar</th>
                                 <th>Partido 2do lugar</th>
                                 <th>Diferencia</th>
                                 <th>Votos nulos</th>
+                                <th>Incidencias</th>
                                 <th style="width: 50px">Ver acta</th>
                             </tr>
                             </thead>
@@ -64,6 +65,14 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <div class="circle-tooltip" style="background-color: #5BC0EB;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FDE74C;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -80,6 +89,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -98,6 +110,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <p>Uno</p>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -114,6 +129,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -132,6 +150,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <p>Uno</p>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -148,6 +169,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -166,6 +190,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <p>Uno</p>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -182,6 +209,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -200,6 +230,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <p>Uno</p>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -216,6 +249,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -234,6 +270,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <p>Uno</p>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -250,6 +289,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -268,6 +310,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
+                                    <p>Uno</p>
+                                </td>
+                                <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
                             </tr>
@@ -284,6 +329,9 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
+                                <td>
+                                    <p>Uno</p>
+                                </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>

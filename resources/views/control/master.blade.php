@@ -84,34 +84,24 @@
                                 <a href="/eleccion">Oaxaca, Diputado</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Causales</a></li>
+                                    <li><a href="/eleccion">Nulidad</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/eleccion">Queretaro, Gobernador</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Causales</a></li>
+                                    <li><a href="/eleccion">Nulidad</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="/eleccion">Queretaro, Diputado</a>
                                 <ul class="nav child_menu">
                                     <li><a href="/eleccion-recuento">Recuento</a></li>
-                                    <li><a href="/eleccion">Causales</a></li>
+                                    <li><a href="/eleccion">Nulidad</a></li>
                                 </ul>
                             </li>
                         </ul>
-
-                        {{--<ul class="nav side-menu">--}}
-                            {{--<li><a><i class="fa fa-home"></i> Home <span class="fa fa-chevron-down"></span></a>--}}
-                                {{--<ul class="nav child_menu">--}}
-                                    {{--<li><a href="index.html">Dashboard</a></li>--}}
-                                    {{--<li><a href="index2.html">Dashboard2</a></li>--}}
-                                    {{--<li><a href="index3.html">Dashboard3</a></li>--}}
-                                {{--</ul>--}}
-                            {{--</li>--}}
-                        {{--</ul>--}}
                     </div>
                 </div>
                 <!-- /sidebar menu -->

@@ -136,3 +136,14 @@ table.table tbody tr td:first-of-type {
 .btn-inline {
   display: inline-block;
 }
+.circle-tooltip {
+  width: 25px;
+  height: 25px;
+  margin-right: 4px;
+  overflow: hidden;
+  display: inline-block;
+  border-radius: 50%;
+}
+.circle-tooltip:last-of-type {
+  margin-right: 0;
+}
