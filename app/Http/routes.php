@@ -36,3 +36,7 @@ Route::get('/usuarios', function () {
 Route::get('/usuario', function () {
     return view('control.user.profile');
 });
+
+Route::get('/causales', function () {
+    return view('control.admin.new-causal');
+});

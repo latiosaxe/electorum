@@ -19,6 +19,7 @@
     <link href="assets/control/libs/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
     <link href="assets/control/libs/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet"><!-- Select2 -->
     <link href="assets/control/libs/select2/dist/css/select2.min.css" rel="stylesheet">
+    <link href="assets/control/libs/mjolnic-bootstrap-colorpicker/dist/css/bootstrap-colorpicker.min.css" rel="stylesheet">
 
     <link rel="stylesheet" href="assets/control/css/custom.min.css"/>
     <link rel="stylesheet" href="assets/control/css/electorum.css"/>
@@ -28,7 +29,7 @@
     <div class="main_container">
         <div class="col-md-3 left_col">
             <div class="left_col scroll-view">
-                <div class="navbar nav_title" style="border: 0;">
+                <div class="navbar nav_title" style="   border: 0;">
                     <a href="/" class="site_title">
                         {{--<i class="fa fa-paw"></i> <span>Gentellela Alela!</span>--}}
                         <img src="assets/control/images/logo.png" alt="Electorum"/>
@@ -68,6 +69,9 @@
                             </li>
                             <li>
                                 <a href="/usuarios">Usuarios</a>
+                            </li>
+                            <li>
+                                <a href="/causales">Causales</a>
                             </li>
                         </ul>
                         <br>

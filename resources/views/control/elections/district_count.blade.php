@@ -26,7 +26,7 @@
                                 <p class="up-aux"><strong><span class="color-green">2120 casillas ganadas</span>, <span class="color-orange">523 casillas perdidas</span></strong></p>
                             </div>
                             <div class="col-md-3 text-right">
-                                <p class="btn-inline"><strong>48%</strong> de casillas revisadas</p>
+                                <p class="btn-inline" style="margin-right: 5px;"><strong>48%</strong> de casillas revisadas</p>
                                 <a href="#" class="btn btn-info btn-inline"><i class="fa fa-print"></i> Imprimir</a>
                             </div>
                         </div>
@@ -90,7 +90,10 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #5BC0EB;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -110,7 +113,10 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #FDE74C;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -130,7 +136,10 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #5BC0EB;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -150,7 +159,8 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #5BC0EB;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FDE74C;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -170,7 +180,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -190,7 +202,10 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #5BC0EB;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -210,7 +225,10 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #FDE74C;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -230,7 +248,7 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -249,9 +267,7 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
-                                <td>
-                                    <p>Uno</p>
-                                </td>
+                                <td></td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -270,7 +286,7 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -290,7 +306,12 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #5BC0EB;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FDE74C;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #E55934;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -309,9 +330,7 @@
                                 </td>
                                 <td>1,249</td>
                                 <td>1,5487</td>
-                                <td>
-                                    <p>Uno</p>
-                                </td>
+                                <td></td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
                                 </td>
@@ -330,7 +349,9 @@
                                 <td>1,249</td>
                                 <td>1,5487</td>
                                 <td>
-                                    <p>Uno</p>
+                                    <div class="circle-tooltip" style="background-color: #9BC53D;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #FA7921;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
+                                    <div class="circle-tooltip" style="background-color: #be65fa;" data-toggle="tooltip" data-placement="top" title="Motivo de incidencia"></div>
                                 </td>
                                 <td>
                                     <a href="/boleta" class="btn btn-info"><i class="fa fa-search"></i></a>
@@ -362,7 +383,7 @@
     <script>
         $(document).ready(function(){
             $('#datatable').dataTable({
-                ordering:  false,
+//                ordering:  false,
                 paging: false
             });
         });
